@@ -1,6 +1,6 @@
 let xClickz = document.getElementById("xicon");
 let tClickz = document.getElementById("ticon");
-let refUrl = document.getElementById("refurl");
+let refUrlx = document.getElementById("refurl");
 
 var xClickedz = false;
 var tClickedz = false;
@@ -19,11 +19,13 @@ tClickz.addEventListener("click", function () {
 
 function submitandgetref() {
   if (xClickedz && tClickedz) {
-    alert(refUrl.value);
+    alert(refUrlx.value);
+    
         
   } else {
     document.getElementById("swal2-title").innerHTML = "Task Error!";
     document.getElementsByClassName("swal2-container")[0].style.display =
       "flex";
+      console.log(refUrlx.value)
   }
 }
