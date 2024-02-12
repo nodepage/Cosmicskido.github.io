@@ -2,5 +2,5 @@
   font-family: 'Rowdies';
   font-style: normal;
   font-weight: 700;
-  src: url(s/rowdies/v17/ptRMTieMYPNBAK219gtm5O4.ttf) format('truetype');
+  src: url(./s/rowdies/v17/ptRMTieMYPNBAK219gtm5O4.ttf) format('truetype');
 }

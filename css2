@@ -2,5 +2,5 @@
   font-family: 'Zen Dots';
   font-style: normal;
   font-weight: 400;
-  src: url(s/zendots/v12/XRXX3ICfm00IGoesQeaE.ttf) format('truetype');
+  src: url(./s/zendots/v12/XRXX3ICfm00IGoesQeaE.ttf) format('truetype');
 }
