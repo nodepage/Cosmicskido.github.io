@@ -10,6 +10,9 @@
   * alertBox
   * loadmore
 */
+const succesReload = () => {
+  window.location.reload();
+};
 
 ; (function ($) {
     "use strict";

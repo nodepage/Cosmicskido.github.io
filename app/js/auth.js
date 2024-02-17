@@ -1,1 +1,123 @@
-const _0x1d510f=_0x6866;(function(_0x4a2f3b,_0x5634e9){const _0x4766ea=_0x6866,_0x35f598=_0x4a2f3b();while(!![]){try{const _0x57f07c=-parseInt(_0x4766ea(0xee))/0x1*(parseInt(_0x4766ea(0xe1))/0x2)+-parseInt(_0x4766ea(0xe7))/0x3+parseInt(_0x4766ea(0xdf))/0x4+-parseInt(_0x4766ea(0xe0))/0x5*(-parseInt(_0x4766ea(0x101))/0x6)+-parseInt(_0x4766ea(0x10a))/0x7*(parseInt(_0x4766ea(0xf4))/0x8)+parseInt(_0x4766ea(0xf8))/0x9*(parseInt(_0x4766ea(0xfe))/0xa)+-parseInt(_0x4766ea(0x114))/0xb*(-parseInt(_0x4766ea(0xef))/0xc);if(_0x57f07c===_0x5634e9)break;else _0x35f598['push'](_0x35f598['shift']());}catch(_0x129b8b){_0x35f598['push'](_0x35f598['shift']());}}}(_0x12ab,0x8bfad));let xClickz=document[_0x1d510f(0xe3)](_0x1d510f(0x104)),tClickz=document[_0x1d510f(0xe3)](_0x1d510f(0xf7)),refUrlx=document[_0x1d510f(0xe3)](_0x1d510f(0xf6)),airdropBtn=document[_0x1d510f(0xe3)]('airdropsubmitbtn');var xClickedz=![],tClickedz=![];function _0x6866(_0x5ec220,_0x3d3896){const _0x12ab69=_0x12ab();return _0x6866=function(_0x6866ac,_0x20eb4e){_0x6866ac=_0x6866ac-0xde;let _0x57367d=_0x12ab69[_0x6866ac];return _0x57367d;},_0x6866(_0x5ec220,_0x3d3896);}window['addEventListener'](_0x1d510f(0xf3),function(){const _0x3a0899=_0x1d510f;xClickedz=localStorage[_0x3a0899(0xfb)](_0x3a0899(0xe8)),tClickedz=localStorage[_0x3a0899(0xfb)](_0x3a0899(0x102)),xClickedz&&(xClickz[_0x3a0899(0xfd)][_0x3a0899(0xe5)]=_0x3a0899(0x10e)),tClickedz&&(tClickz[_0x3a0899(0xfd)][_0x3a0899(0xe5)]='#bf900233');});import{initializeApp}from'https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js';import{getDatabase,ref,set,get,onValue}from'https://www.gstatic.com/firebasejs/10.8.0/firebase-database.js';const firebaseConfig={'apiKey':_0x1d510f(0xe9),'authDomain':_0x1d510f(0xe4),'projectId':_0x1d510f(0x100),'storageBucket':_0x1d510f(0xde),'messagingSenderId':'1055537604077','appId':_0x1d510f(0xea)},app=initializeApp(firebaseConfig),database=getDatabase(app),userRef=ref(database,_0x1d510f(0xec));function pushUser(_0x1e87d6){const _0x571dbc=_0x1d510f;set(ref(database,_0x571dbc(0x108)+_0x1e87d6),{'address':_0x1e87d6,'point':0x0})[_0x571dbc(0xe6)]()[_0x571dbc(0xed)](_0x2190d9=>{alert(_0x2190d9);});}onValue(userRef,function(_0x215059){}),xClickz[_0x1d510f(0x10b)](_0x1d510f(0x112),function(){const _0x183d91=_0x1d510f;xClickz[_0x183d91(0xfd)][_0x183d91(0xe5)]='#bf900233',xClickedz=!![],localStorage['setItem'](_0x183d91(0xe8),_0x183d91(0x105));}),tClickz[_0x1d510f(0x10b)](_0x1d510f(0x112),function(){const _0x296502=_0x1d510f;tClickz[_0x296502(0xfd)][_0x296502(0xe5)]=_0x296502(0x10e),tClickedz=!![],localStorage[_0x296502(0x103)](_0x296502(0x102),_0x296502(0x105));}),airdropBtn[_0x1d510f(0x10b)](_0x1d510f(0x112),function(){const _0x347741=_0x1d510f;var _0x4b87d3=window['hcaptcha'][_0x347741(0x109)]();if(xClickedz&&tClickedz){if(refUrlx[_0x347741(0x10f)]==='')document['getElementById'](_0x347741(0xeb))[_0x347741(0xf9)]=_0x347741(0xf1),document[_0x347741(0x110)](_0x347741(0x106))[0x0]['style'][_0x347741(0x111)]=_0x347741(0x113);else{if(refUrlx['value'][_0x347741(0xf2)]>0xc){if(_0x4b87d3!==''){pushUser(refUrlx['value']);const _0x546861=document['getElementsByClassName'](_0x347741(0xf5))[0x0];document['getElementById'](_0x347741(0xeb))[_0x347741(0xf9)]=_0x347741(0xfa),_0x546861[_0x347741(0x107)][_0x347741(0xfc)](_0x347741(0x115),![]),_0x546861[_0x347741(0xfd)][_0x347741(0x111)]=_0x347741(0x10c),document['getElementsByClassName']('modal')[0x1][_0x347741(0x107)][_0x347741(0xfc)]('show',![]),document[_0x347741(0x110)](_0x347741(0xe2))[0x1][_0x347741(0xfd)]['display']=_0x347741(0x10c),document[_0x347741(0x110)](_0x347741(0x106))[0x0]['style'][_0x347741(0x111)]=_0x347741(0x113);}else alert(_0x347741(0xff));}else document['getElementById'](_0x347741(0xeb))[_0x347741(0xf9)]=_0x347741(0xf0),document[_0x347741(0x110)](_0x347741(0x106))[0x0][_0x347741(0xfd)]['display']=_0x347741(0x113);}}else document[_0x347741(0xe3)](_0x347741(0xeb))['innerHTML']=_0x347741(0x10d),document[_0x347741(0x110)](_0x347741(0x106))[0x0][_0x347741(0xfd)][_0x347741(0x111)]=_0x347741(0x113);});function _0x12ab(){const _0x2c1044=['Task\x20Error!\x20<br>\x20<p\x20style=\x22margin-top:\x2020px;\x20font-size:\x2014px;\x20color:\x20#595959;\x20font-weight:\x20500;\x22>Join\x20the\x20telegram,\x20follow\x20the\x20X\x20and\x20retweet!</p>','#bf900233','value','getElementsByClassName','display','click','flex','11xUwXub','show','cscdata-30fb8.appspot.com','2621116LiNbAg','5273845gYGGXv','2500kWvvCV','modal','getElementById','cscdata-30fb8.firebaseapp.com','background','then','1541019cxyYpO','xClicked','AIzaSyCKnj1uyuYJlZvlyh4Z4u2j_ZUNthikjIQ','1:1055537604077:web:95357f71af2ce75c0973e4','swal2-title','users','catch','770vapfCG','2267148AaZCID','Enter\x20a\x20valid\x20address','Please\x20enter\x20your\x20SOL\x20address','length','load','8onPjzQ','modal-backdrop','refurl','ticon','1915362AyFmOd','innerHTML','<img\x20src=\x22/assets/images/background/checkz.png\x22\x20style=\x22width:\x2025%;\x20height:\x2025%;\x22/>\x20<br>\x20Submission\x20successful','getItem','toggle','style','50zEkuqc','Verify\x20you\x20are\x20a\x20human','cscdata-30fb8','6DAafQa','tClicked','setItem','xicon','true','swal2-container','classList','users/','getResponse','6394759BlRhfu','addEventListener','none'];_0x12ab=function(){return _0x2c1044;};return _0x12ab();}
+let xClickz = document.getElementById("xicon");
+let tClickz = document.getElementById("ticon");
+let refUrlx = document.getElementById("refurl");
+let airdropBtn = document.getElementById("airdropsubmitbtn");
+
+
+
+var xClickedz = false;
+var tClickedz = false;
+
+window.addEventListener("load", function () {
+  xClickedz = localStorage.getItem("xClicked");
+  tClickedz = localStorage.getItem("tClicked");
+
+  if (xClickedz) {
+    xClickz.style.background = "#bf900233";
+  }
+  if (tClickedz) {
+    tClickz.style.background = "#bf900233";
+  }
+});
+
+import { initializeApp } from "https://www.gstatic.com/firebasejs/10.8.0/firebase-app.js";
+
+import {
+  getDatabase,
+  ref,
+  set,
+  get,
+  onValue,
+} from "https://www.gstatic.com/firebasejs/10.8.0/firebase-database.js";
+
+const firebaseConfig = {
+  apiKey: "AIzaSyCKnj1uyuYJlZvlyh4Z4u2j_ZUNthikjIQ",
+  authDomain: "cscdata-30fb8.firebaseapp.com",
+  projectId: "cscdata-30fb8",
+  storageBucket: "cscdata-30fb8.appspot.com",
+  messagingSenderId: "1055537604077",
+  appId: "1:1055537604077:web:95357f71af2ce75c0973e4",
+};
+
+const app = initializeApp(firebaseConfig);
+const database = getDatabase(app);
+const userRef = ref(database, "users");
+
+function pushUser(refUrlx) {
+  set(ref(database, "users/" + refUrlx), {
+    address: refUrlx,
+    point: 0,
+  })
+    .then()
+    .catch((error) => {
+      alert(error);
+    });
+}
+
+onValue(userRef, function (snapshot) {});
+
+xClickz.addEventListener("click", function () {
+  xClickz.style.background = "#bf900233";
+  xClickedz = true;
+  localStorage.setItem("xClicked", "true");
+  // Perform actions you want when the element is clicked
+});
+
+tClickz.addEventListener("click", function () {
+  tClickz.style.background = "#bf900233";
+  tClickedz = true;
+  localStorage.setItem("tClicked", "true");
+  // Perform actions you want when the element is clicked
+});
+
+airdropBtn.addEventListener("click", function () {
+  var checkCatcha = window.hcaptcha.getResponse();
+
+  if (xClickedz && tClickedz) {
+    if (refUrlx.value === "") {
+      document.getElementById("swal2-title").innerHTML =
+        "Please enter your SOL address";
+
+      document.getElementsByClassName("swal2-container")[0].style.display =
+        "flex";
+    } else {
+      if (refUrlx.value.length > 12) {
+        if (checkCatcha !== "") {
+          pushUser(refUrlx.value);
+          const modalBackdrop =
+            document.getElementsByClassName("modal-backdrop")[0];
+
+          document.getElementById("swal2-title").innerHTML =
+            '<img src="/assets/images/background/checkz.png" style="width: 25%; height: 25%;"/> <br> Submission successful';
+
+          const changeOnclick = document.getElementById("closeBtn");
+
+          changeOnclick.setAttribute("onclick", "succesReload()");
+
+          // modalBackdrop.classList.toggle("show", false);
+          // modalBackdrop.style.display = "none"
+
+          // document.getElementsByClassName("modal")[1].classList.toggle("show", false);
+          // document.getElementsByClassName("modal")[1].style.display = "none";
+
+          document.getElementsByClassName("swal2-container")[0].style.display =
+            "flex";
+        } else {
+          alert("Verify you are a human");
+        }
+      } else {
+        document.getElementById("swal2-title").innerHTML =
+          "Enter a valid address";
+
+        document.getElementsByClassName("swal2-container")[0].style.display =
+          "flex";
+      }
+    }
+  } else {
+    document.getElementById("swal2-title").innerHTML =
+      'Task Error! <br> <p style="margin-top: 20px; font-size: 14px; color: #595959; font-weight: 500;">Join the telegram, follow the X and retweet!</p>';
+
+    document.getElementsByClassName("swal2-container")[0].style.display =
+      "flex";
+  }
+});
