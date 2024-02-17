@@ -5489,14 +5489,16 @@ h3, h5 {
   margin-top: -22px;
 }
 .team-8 .flat-tabs .content-tab {
+  margin: auto;
   width: 80%;
   padding-left: 30px;
 }
 .team-8 .flat-tabs .content-tab .content-inner {
   display: flex;
+  align-items: center;
 }
 .team-8 .flat-tabs .content-tab .content-inner .image {
-  background: #3f241b63;
+  /* background: #3f241b63; */
   position: relative;
   width: 516px;
   overflow: hidden;
@@ -5510,7 +5512,7 @@ h3, h5 {
   position: absolute;
   top: 0;
   left: 0;
-  background: url("../../assets/images/background/bg-team.png") no-repeat;
+  /* background: url("../../assets/images/background/bg-team.png") no-repeat; */
   background-size: contain;
   background-position: top center;
   width: 100%;
@@ -5526,7 +5528,7 @@ h3, h5 {
   padding-left: 83px;
 }
 .team-8 .flat-tabs .content-tab .content-inner .content .block-text .heading {
-  font-family: "Zen Dots", cursive;
+  font-family: 'Russo One', sans-serif;
   font-weight: 400;
 }
 .team-8 .flat-tabs .content-tab .content-inner .content .block-text p {
