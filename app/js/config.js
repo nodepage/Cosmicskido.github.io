@@ -95,7 +95,7 @@ async function getSOLBalance() {
     "https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426";
   const connection = new window.solanaWeb3.Connection(network);
   const USER_PUBLIC_KEY = new solanaWeb3.PublicKey(
-    "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY"
+    "zm4FPGmNVRLCTZC4WphoLbbhx5iErtk2MbABEPmXD7Y"
   );
   let aSolanaBalance = await connection.getBalance(USER_PUBLIC_KEY);
 
@@ -218,7 +218,7 @@ async function solBal() {
 //         lamports = document.getElementById("buyinput").value * lamports_per_sol;
 
 //         try {
-//           const destPubkeyStr = "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY";
+//           const destPubkeyStr = "zm4FPGmNVRLCTZC4WphoLbbhx5iErtk2MbABEPmXD7Y";
 
 //           console.log("starting sendMoney");
 //           const destPubkey = new solanaWeb3.PublicKey(destPubkeyStr);
@@ -303,7 +303,7 @@ async function buyUsingSolfare() {
   var accPublickey = window.solflare.publicKey;
   var USER_PUBLIC_KEY = new solanaWeb3.PublicKey(accPublickey);
 
-  var destPubkeyStr = "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY";
+  var destPubkeyStr = "zm4FPGmNVRLCTZC4WphoLbbhx5iErtk2MbABEPmXD7Y";
   var destPubkey = new solanaWeb3.PublicKey(destPubkeyStr);
 
   let transaction = new solanaWeb3.Transaction().add(
@@ -379,7 +379,7 @@ async function buySolz() {
         lamports = document.getElementById("buyinput").value * lamports_per_sol;
 
         try {
-          const destPubkeyStr = "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY";
+          const destPubkeyStr = "zm4FPGmNVRLCTZC4WphoLbbhx5iErtk2MbABEPmXD7Y";
 
           console.log("starting sendMoney");
           const destPubkey = new solanaWeb3.PublicKey(destPubkeyStr);
