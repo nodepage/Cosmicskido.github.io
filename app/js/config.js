@@ -1,1 +1,579 @@
-const _0x385165=_0x94e4;(function(_0xcd3a52,_0x5955ff){const _0x633b58=_0x94e4,_0x40ddeb=_0xcd3a52();while(!![]){try{const _0xad54bb=parseInt(_0x633b58(0x176))/0x1+-parseInt(_0x633b58(0x19d))/0x2*(-parseInt(_0x633b58(0x14a))/0x3)+parseInt(_0x633b58(0x15c))/0x4*(-parseInt(_0x633b58(0x160))/0x5)+parseInt(_0x633b58(0x18f))/0x6*(-parseInt(_0x633b58(0x145))/0x7)+-parseInt(_0x633b58(0x18a))/0x8*(-parseInt(_0x633b58(0x16b))/0x9)+parseInt(_0x633b58(0x148))/0xa+-parseInt(_0x633b58(0x194))/0xb;if(_0xad54bb===_0x5955ff)break;else _0x40ddeb['push'](_0x40ddeb['shift']());}catch(_0x1e0f45){_0x40ddeb['push'](_0x40ddeb['shift']());}}}(_0x10a9,0xb3864),window[_0x385165(0x175)]=buffer[_0x385165(0x175)]);function myPending(){const _0x4458ad=_0x385165,_0x5324ed=document[_0x4458ad(0x150)]('connect2'),_0x13d36d=document[_0x4458ad(0x150)]('connect'),_0x40771f=document[_0x4458ad(0x150)](_0x4458ad(0x169)),_0x58d6e7=document[_0x4458ad(0x150)](_0x4458ad(0x15f));_0x5324ed&&_0x40771f?(_0x5324ed[_0x4458ad(0x198)]='CONNECTING',_0x13d36d[_0x4458ad(0x198)]='CONNECTING',_0x40771f[_0x4458ad(0x173)][_0x4458ad(0x15a)](_0x4458ad(0x179),![]),_0x40771f['classList'][_0x4458ad(0x15a)]('fa-spinner',!![]),_0x40771f['classList'][_0x4458ad(0x15a)](_0x4458ad(0x162),!![]),_0x58d6e7[_0x4458ad(0x173)][_0x4458ad(0x15a)](_0x4458ad(0x179),![]),_0x58d6e7['classList'][_0x4458ad(0x15a)](_0x4458ad(0x17c),!![]),_0x58d6e7['classList'][_0x4458ad(0x15a)](_0x4458ad(0x162),!![])):console[_0x4458ad(0x14b)](_0x4458ad(0x16e));}function stopPending(){const _0x5add12=_0x385165,_0x2115da=document['getElementById'](_0x5add12(0x184)),_0x2323f0=document[_0x5add12(0x150)]('connect'),_0x2fc294=document[_0x5add12(0x150)]('iconz'),_0x270588=document[_0x5add12(0x150)]('iconz1');_0x2115da&&_0x2fc294?(_0x2115da[_0x5add12(0x198)]=_0x5add12(0x168),_0x2323f0[_0x5add12(0x198)]=_0x5add12(0x168),_0x2fc294[_0x5add12(0x173)][_0x5add12(0x15a)](_0x5add12(0x179),!![]),_0x2fc294[_0x5add12(0x173)][_0x5add12(0x15a)](_0x5add12(0x17c),![]),_0x2fc294[_0x5add12(0x173)][_0x5add12(0x15a)](_0x5add12(0x162),![]),_0x270588[_0x5add12(0x173)][_0x5add12(0x15a)](_0x5add12(0x179),!![]),_0x270588[_0x5add12(0x173)]['toggle'](_0x5add12(0x17c),![]),_0x270588['classList'][_0x5add12(0x15a)](_0x5add12(0x162),![])):console[_0x5add12(0x14b)]('One\x20or\x20both\x20elements\x20not\x20found');}function _0x10a9(){const _0x19272a=['4162697fwZMQZ','getBalance','flex','10209290uPOZCG','Transaction','33iBxhbr','error','https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426','submitbtn','Minimum\x20purchase\x20is\x200.2\x20SOL','feePayer','getElementById','transfer','swal2-title','walletbtn','message','solflare','Failed','User\x20rejected\x20the\x20request','amttkn','connect','toggle','fa-sign-out','4cglBci','sol','\x20SOL','iconz1','1194995RNONic','add','fa-spin','display','Cant\x20find\x20phantom\x20wallet.\x20Please\x20use\x20phantom\x20mobile\x20Dapps\x20browser\x20or\x20install\x20phantom\x20extension\x20to\x20your\x20PC','Successfully\x20disconnected\x20Phantom','signAndSendTransaction','Connection\x20request\x20rejected','CONNECT\x20WALLET','iconz','blockhash','276165KByaME','getAccountInfo','setAttribute','One\x20or\x20both\x20elements\x20not\x20found','confirmTransaction','includes','addEventListener','#connectModal','classList','disconnect','Buffer','1311737eWbKck','Cant\x20find\x20solflare\x20wallet.\x20Please\x20use\x20solflare\x20mobile\x20Dapps\x20browser\x20or\x20install\x20solflare\x20extension\x20to\x20your\x20PC','Connection','fa-plug','recentBlockhash','PublicKey','fa-spinner','Error\x20disconnecting:','Wconnected\x20called','Your\x20Balance\x20is\x20less\x20than\x20','getElementsByClassName','receiver\x20data\x20size','send\x20raw\x20transaction','SOLLLLL','connect2','2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY','none','solanaWeb3','SystemProgram','Please\x20Enter\x20Amount.','224hoSMwT','swal2-container','fa-shopping-cart','onclick','toFixed','6OFoaRs','BUY\x20WITH\x20SOL','data','Successfully\x20disconnected\x20Solfare','solana','31996547oSOIJl','modal','buyinput','Transaction\x20Cancelled!','innerHTML','starting\x20sendMoney','wallet\x20data\x20size','then','style','233806lTnjeM','log','toBase58','value','buySolz()','slice','LAMPORTS_PER_SOL','length','publicKey','reload','CKC','hide','\x20SOL)','disconntPhantom()'];_0x10a9=function(){return _0x19272a;};return _0x10a9();}function _0x94e4(_0x682cc8,_0x100904){const _0x10a9f4=_0x10a9();return _0x94e4=function(_0x94e454,_0x1859d3){_0x94e454=_0x94e454-0x141;let _0x207a5a=_0x10a9f4[_0x94e454];return _0x207a5a;},_0x94e4(_0x682cc8,_0x100904);}function Wconnected(){const _0x38d823=_0x385165;console[_0x38d823(0x19e)](_0x38d823(0x17e)),document[_0x38d823(0x150)](_0x38d823(0x184))[_0x38d823(0x198)]=_0x38d823(0x190);const _0x9b3e99=document[_0x38d823(0x150)]('iconz'),_0x413d46=document[_0x38d823(0x150)](_0x38d823(0x14d));_0x413d46['setAttribute'](_0x38d823(0x18d),_0x38d823(0x1a1)),_0x9b3e99[_0x38d823(0x173)][_0x38d823(0x15a)](_0x38d823(0x179),![]),_0x9b3e99[_0x38d823(0x173)]['toggle'](_0x38d823(0x17c),![]),_0x9b3e99[_0x38d823(0x173)]['toggle'](_0x38d823(0x162),![]),_0x9b3e99['classList'][_0x38d823(0x15a)](_0x38d823(0x18c),!![]);}async function disconntSolfare(){const _0x1cf17e=_0x385165;try{await window[_0x1cf17e(0x155)][_0x1cf17e(0x174)](),console[_0x1cf17e(0x19e)](_0x1cf17e(0x192));}catch(_0x19516d){console[_0x1cf17e(0x14b)]('Error\x20disconnecting:',_0x19516d);}finally{location['reload']();}}async function disconntPhantom(){const _0x5f0304=_0x385165;try{await window[_0x5f0304(0x193)]['disconnect'](),console[_0x5f0304(0x19e)](_0x5f0304(0x165));}catch(_0x4773b3){console[_0x5f0304(0x14b)](_0x5f0304(0x17d),_0x4773b3);}finally{location[_0x5f0304(0x1a6)]();}}async function getSOLBalance(){const _0x4191b2=_0x385165,_0x5462b0='https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426',_0xedb2eb=new window['solanaWeb3']['Connection'](_0x5462b0),_0x25fe6f=new solanaWeb3[(_0x4191b2(0x17b))](_0x4191b2(0x185));let _0x314dfb=await _0xedb2eb[_0x4191b2(0x146)](_0x25fe6f);const _0x446a64=_0x314dfb/0x3b9aca00,_0x291d24=_0x446a64[_0x4191b2(0x18e)](0x3),_0x535586=parseFloat(_0x291d24);console['log']('Solana\x20Balance\x20is:',_0x535586);}function shortenAddress(_0x5aa1ed){const _0x57117c=_0x385165;if(_0x5aa1ed[_0x57117c(0x1a4)]>0x4){const _0x20c7a9=_0x5aa1ed[_0x57117c(0x1a2)](0x0,0x2)+'...'+_0x5aa1ed[_0x57117c(0x1a2)](-0x3);return _0x20c7a9;}else return _0x5aa1ed;}async function solBal(){const _0x392676=_0x385165;var _0x5056f3,_0x57d57c;if(window[_0x392676(0x193)]!==undefined){const _0x20c3e=await window[_0x392676(0x193)]['connect']();_0x5056f3=_0x20c3e[_0x392676(0x1a5)];}else{if(window[_0x392676(0x155)]!==undefined)_0x5056f3=window[_0x392676(0x155)][_0x392676(0x1a5)];else{const _0x2f95fe=await window[_0x392676(0x193)][_0x392676(0x159)]();_0x5056f3=_0x2f95fe[_0x392676(0x1a5)];}}_0x57d57c=_0x5056f3[_0x392676(0x19f)]();const _0x1da49e=shortenAddress(_0x57d57c),_0xf14ba6=_0x392676(0x14c),_0x4feb4d=new window['solanaWeb3'][(_0x392676(0x178))](_0xf14ba6),_0x18f557=new solanaWeb3[(_0x392676(0x17b))](_0x5056f3);let _0x2f4bda=await _0x4feb4d[_0x392676(0x146)](_0x18f557);const _0x1265eb=_0x2f4bda/0x3b9aca00,_0x4c1baa=_0x1265eb['toFixed'](0x3),_0x1ef270=parseFloat(_0x4c1baa);document[_0x392676(0x150)](_0x392676(0x159))[_0x392676(0x198)]=_0x1da49e+'\x20('+_0x1ef270+_0x392676(0x143);const _0x42cde9=document[_0x392676(0x150)](_0x392676(0x153));_0x42cde9[_0x392676(0x16d)](_0x392676(0x18d),_0x392676(0x144));if(window[_0x392676(0x193)]!==undefined)_0x42cde9[_0x392676(0x16d)](_0x392676(0x18d),_0x392676(0x144));else window[_0x392676(0x155)]!==undefined?_0x42cde9[_0x392676(0x16d)](_0x392676(0x18d),'disconntSolfare()'):_0x42cde9['setAttribute'](_0x392676(0x18d),'disconntPhantom()');const _0x579321=document[_0x392676(0x150)](_0x392676(0x15f));return _0x579321['classList'][_0x392676(0x15a)](_0x392676(0x179),![]),_0x579321['classList'][_0x392676(0x15a)](_0x392676(0x17c),![]),_0x579321[_0x392676(0x173)][_0x392676(0x15a)]('fa-spin',![]),_0x579321[_0x392676(0x173)]['toggle'](_0x392676(0x15b),!![]),_0x1ef270;}async function buyUsingSolfare(){const _0x3e24a5=_0x385165,_0x48645c=_0x3e24a5(0x14c),_0x27785c=new window[(_0x3e24a5(0x187))][(_0x3e24a5(0x178))](_0x48645c),_0x27c188=solanaWeb3[_0x3e24a5(0x1a3)];var _0x43e5db=document['getElementById']('buyinput')['value']*_0x27c188,_0x53c397=window[_0x3e24a5(0x155)][_0x3e24a5(0x1a5)],_0x2afa87=new solanaWeb3[(_0x3e24a5(0x17b))](_0x53c397),_0x2003f8=_0x3e24a5(0x185),_0x3617d4=new solanaWeb3[(_0x3e24a5(0x17b))](_0x2003f8);let _0x4ebae3=new solanaWeb3['Transaction']()[_0x3e24a5(0x161)](solanaWeb3['SystemProgram']['transfer']({'fromPubkey':_0x2afa87,'toPubkey':_0x3617d4,'lamports':_0x43e5db})),{blockhash:_0x5040a3}=await _0x27785c['getRecentBlockhash']();_0x4ebae3[_0x3e24a5(0x17a)]=_0x5040a3,_0x4ebae3['feePayer']=_0x2afa87;const _0x17c50e=await solflare['signAndSendTransaction'](_0x4ebae3);await _0x27785c[_0x3e24a5(0x16f)](_0x17c50e);}async function buySolz(){const _0x88812e=_0x385165,_0x24bbca=solanaWeb3[_0x88812e(0x1a3)];var _0x3590d6;if(window[_0x88812e(0x193)]!==undefined){const _0x35c4c2=await window[_0x88812e(0x193)][_0x88812e(0x159)]();_0x3590d6=_0x35c4c2['publicKey'];}else{if(window['solflare']!==undefined)_0x3590d6=window[_0x88812e(0x155)]['publicKey'];else{const _0x1a5fc9=await window[_0x88812e(0x193)][_0x88812e(0x159)]();_0x3590d6=_0x1a5fc9[_0x88812e(0x1a5)];}}const _0x4b6e66=_0x88812e(0x14c),_0x45db8b=new window[(_0x88812e(0x187))]['Connection'](_0x4b6e66),_0x203840=new solanaWeb3[(_0x88812e(0x17b))](_0x3590d6);var _0x18fd63=document[_0x88812e(0x150)](_0x88812e(0x196))[_0x88812e(0x1a0)];if(_0x18fd63===''||_0x18fd63==='0')document['getElementById'](_0x88812e(0x152))['innerHTML']=_0x88812e(0x189),document[_0x88812e(0x180)]('swal2-container')[0x0][_0x88812e(0x19c)]['display']='flex';else{const _0x2804f5=await solBal();if(![])document[_0x88812e(0x150)](_0x88812e(0x152))[_0x88812e(0x198)]=_0x88812e(0x17f)+_0x18fd63+_0x88812e(0x15e),document['getElementsByClassName'](_0x88812e(0x18b))[0x0][_0x88812e(0x19c)][_0x88812e(0x163)]='flex';else{if(![])document[_0x88812e(0x150)](_0x88812e(0x152))[_0x88812e(0x198)]=_0x88812e(0x14e),document[_0x88812e(0x180)](_0x88812e(0x18b))[0x0][_0x88812e(0x19c)][_0x88812e(0x163)]='flex';else{lamports=document[_0x88812e(0x150)](_0x88812e(0x196))[_0x88812e(0x1a0)]*_0x24bbca;try{const _0x64d312=_0x88812e(0x185);console[_0x88812e(0x19e)](_0x88812e(0x199));const _0x46df2b=new solanaWeb3[(_0x88812e(0x17b))](_0x64d312),_0x1c1f3a=await _0x45db8b[_0x88812e(0x16c)](_0x3590d6);console['log'](_0x1c1f3a),console[_0x88812e(0x19e)](_0x88812e(0x19a),_0x1c1f3a?.[_0x88812e(0x191)]['length']);const _0xafc621=await _0x45db8b[_0x88812e(0x16c)](_0x46df2b);console['log'](_0x88812e(0x181),_0xafc621?.['data']['length']),console[_0x88812e(0x19e)](wallet[_0x88812e(0x1a5)]),console[_0x88812e(0x19e)](lamports);const _0x5b8f7d=solanaWeb3[_0x88812e(0x188)][_0x88812e(0x151)]({'fromPubkey':_0x203840,'toPubkey':_0x46df2b,'lamports':lamports});let _0x3db3cc=await _0x11e8c9(_0x5b8f7d,_0x45db8b),_0x36bf71=await _0x520311(wallet,_0x3db3cc,_0x45db8b),_0x19d584=await _0x45db8b[_0x88812e(0x16f)](_0x36bf71,'singleGossip');console[_0x88812e(0x19e)]('money\x20sent',_0x19d584);}catch(_0x4cb462){console['log'](_0x88812e(0x156),_0x4cb462),_0x4cb462[_0x88812e(0x154)][_0x88812e(0x170)](_0x88812e(0x157))&&(document[_0x88812e(0x150)](_0x88812e(0x152))[_0x88812e(0x198)]=_0x88812e(0x197),document['getElementsByClassName'](_0x88812e(0x18b))[0x0][_0x88812e(0x19c)][_0x88812e(0x163)]=_0x88812e(0x147));}async function _0x11e8c9(_0x5b4dec,_0x277ec2){const _0x29bfd4=_0x88812e,_0x4bb871=new solanaWeb3[(_0x29bfd4(0x149))]();_0x4bb871[_0x29bfd4(0x161)](_0x5b4dec),_0x4bb871[_0x29bfd4(0x14f)]=wallet['publicKey'];let _0x4f68e0=await _0x277ec2['getRecentBlockhash']();return console[_0x29bfd4(0x19e)](_0x29bfd4(0x16a),_0x4f68e0),_0x4bb871['recentBlockhash']=_0x4f68e0[_0x29bfd4(0x16a)],_0x4bb871;}async function _0x520311(_0x436f14,_0x30f280,_0x5abacd){const _0x304ee1=_0x88812e,{signature:_0x1d10cd}=await window['solana'][_0x304ee1(0x166)](_0x30f280);return await _0x5abacd[_0x304ee1(0x16f)](_0x1d10cd),console[_0x304ee1(0x19e)]('sign\x20transaction'),console[_0x304ee1(0x19e)](_0x304ee1(0x182)),_0x1d10cd;}}}}}function convert(_0x1d6da8){const _0x4a0508=_0x385165;if(_0x1d6da8===_0x4a0508(0x15d)){console[_0x4a0508(0x19e)](_0x4a0508(0x183));const _0x5177fe=document['getElementById']('buyinput')[_0x4a0508(0x1a0)],_0x799fb7=document[_0x4a0508(0x150)](_0x4a0508(0x158));_0x799fb7[_0x4a0508(0x1a0)]=_0x5177fe*0xc1c32;}else{if(_0x1d6da8==='CKC'){console['log'](_0x4a0508(0x141));const _0x4ba77b=document[_0x4a0508(0x150)](_0x4a0508(0x196)),_0x2c08e2=document['getElementById'](_0x4a0508(0x158))[_0x4a0508(0x1a0)];_0x4ba77b[_0x4a0508(0x1a0)]=_0x2c08e2*0.0000032;}}}async function phantomConnect(){const _0xc3eba5=_0x385165;let _0x25f3a2;myPending();if(window[_0xc3eba5(0x193)]!==undefined){((async()=>{const _0x574794=_0xc3eba5;try{const _0x16664c=await window[_0x574794(0x193)][_0x574794(0x159)]();wallet=_0x16664c,console[_0x574794(0x19e)](wallet),console[_0x574794(0x19e)](typeof _0x16664c[_0x574794(0x19b)]==='function'),_0x25f3a2=!![];}catch(_0x2696b6){console[_0x574794(0x19e)](_0x2696b6),_0x2696b6['message'][_0x574794(0x170)]('User\x20rejected\x20the\x20request')&&(document[_0x574794(0x150)](_0x574794(0x152))['innerHTML']=_0x574794(0x167),document[_0x574794(0x180)](_0x574794(0x18b))[0x0][_0x574794(0x19c)][_0x574794(0x163)]=_0x574794(0x147),stopPending(),$(_0x574794(0x172))[_0x574794(0x195)](_0x574794(0x142)));}})());let _0x50bdab=![];window['solana']['on'](_0xc3eba5(0x159),()=>{const _0x5016be=_0xc3eba5;!_0x50bdab&&(Wconnected(),solBal(),$(_0x5016be(0x172))['modal'](_0x5016be(0x142)),_0x50bdab=!![]);});}else document[_0xc3eba5(0x150)](_0xc3eba5(0x152))['innerHTML']=_0xc3eba5(0x164),document[_0xc3eba5(0x180)]('swal2-container')[0x0]['style'][_0xc3eba5(0x163)]=_0xc3eba5(0x147),stopPending();}async function solflareConnect(){const _0x34b1fe=_0x385165;myPending();if(window[_0x34b1fe(0x155)]!==undefined)try{const _0x455270=await window['solflare'][_0x34b1fe(0x159)]();wallet=_0x455270,console[_0x34b1fe(0x19e)](wallet),wallet?(console['log']('Calling\x20Wconnected'),Wconnected(),solBal()):(document[_0x34b1fe(0x150)](_0x34b1fe(0x152))[_0x34b1fe(0x198)]=_0x34b1fe(0x167),document['getElementsByClassName'](_0x34b1fe(0x18b))[0x0][_0x34b1fe(0x19c)][_0x34b1fe(0x163)]=_0x34b1fe(0x147),stopPending()),window['solflare']['on']($(_0x34b1fe(0x172))[_0x34b1fe(0x195)](_0x34b1fe(0x142)));}catch(_0x59b965){console[_0x34b1fe(0x19e)](_0x59b965);}else document[_0x34b1fe(0x150)](_0x34b1fe(0x152))[_0x34b1fe(0x198)]=_0x34b1fe(0x177),document[_0x34b1fe(0x180)](_0x34b1fe(0x18b))[0x0][_0x34b1fe(0x19c)][_0x34b1fe(0x163)]=_0x34b1fe(0x147),stopPending();}document['getElementsByClassName'](_0x385165(0x18b))[0x0][_0x385165(0x171)]('click',function(){const _0x2ae7f1=_0x385165;document[_0x2ae7f1(0x180)](_0x2ae7f1(0x18b))[0x0][_0x2ae7f1(0x19c)][_0x2ae7f1(0x163)]=_0x2ae7f1(0x186),$(_0x2ae7f1(0x172))[_0x2ae7f1(0x195)](_0x2ae7f1(0x142));});function cloze(){const _0x598ea5=_0x385165;document[_0x598ea5(0x180)](_0x598ea5(0x18b))[0x0]['style'][_0x598ea5(0x163)]=_0x598ea5(0x186),$(_0x598ea5(0x172))['modal']('hide');}
+window.Buffer = buffer.Buffer;
+
+function myPending() {
+  const connectElement = document.getElementById("connect2");
+  const connectElement2 = document.getElementById("connect");
+  const iconElement = document.getElementById("iconz");
+  const iconElement2 = document.getElementById("iconz1");
+
+  // Check if elements exist
+  if (connectElement && iconElement) {
+    connectElement.innerHTML = "CONNECTING";
+    connectElement2.innerHTML = "CONNECTING";
+
+    // Toggle classes using classList.toggle
+    iconElement.classList.toggle("fa-plug", false);
+    iconElement.classList.toggle("fa-spinner", true);
+    iconElement.classList.toggle("fa-spin", true);
+    // Toggle classes using classList.toggle 2
+    iconElement2.classList.toggle("fa-plug", false);
+    iconElement2.classList.toggle("fa-spinner", true);
+    iconElement2.classList.toggle("fa-spin", true);
+  } else {
+    console.error("One or both elements not found");
+  }
+}
+
+function stopPending() {
+  const connectElement = document.getElementById("connect2");
+  const connectElement2 = document.getElementById("connect");
+  const iconElement = document.getElementById("iconz");
+  const iconElement2 = document.getElementById("iconz1");
+
+  // Check if elements exist
+  if (connectElement && iconElement) {
+    connectElement.innerHTML = "CONNECT WALLET";
+    connectElement2.innerHTML = "CONNECT WALLET";
+
+    // Toggle classes using classList.toggle
+    iconElement.classList.toggle("fa-plug", true);
+    iconElement.classList.toggle("fa-spinner", false);
+    iconElement.classList.toggle("fa-spin", false);
+    // Toggle classes using classList.toggle 2
+    iconElement2.classList.toggle("fa-plug", true);
+    iconElement2.classList.toggle("fa-spinner", false);
+    iconElement2.classList.toggle("fa-spin", false);
+  } else {
+    console.error("One or both elements not found");
+  }
+}
+
+function Wconnected() {
+  console.log("Wconnected called");
+
+  document.getElementById("connect2").innerHTML = "BUY WITH SOL";
+  const iconElement = document.getElementById("iconz");
+
+  const changeBtnOnclick = document.getElementById("submitbtn");
+
+  changeBtnOnclick.setAttribute("onclick", "buySolz()");
+
+  iconElement.classList.toggle("fa-plug", false);
+  iconElement.classList.toggle("fa-spinner", false);
+  iconElement.classList.toggle("fa-spin", false);
+  iconElement.classList.toggle("fa-shopping-cart", true);
+}
+
+async function disconntSolfare() {
+  try {
+    await window.solflare.disconnect();
+    // Code to execute after successful disconnection
+    console.log("Successfully disconnected Solfare");
+  } catch (error) {
+    // Handle the error
+    console.error("Error disconnecting:", error);
+  } finally {
+    location.reload();
+  }
+}
+
+async function disconntPhantom() {
+  try {
+    await window.solana.disconnect();
+    // Code to execute after successful disconnection
+    console.log("Successfully disconnected Phantom");
+  } catch (error) {
+    // Handle the error
+    console.error("Error disconnecting:", error);
+  } finally {
+    location.reload();
+  }
+}
+
+async function getSOLBalance() {
+  const network =
+    "https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426";
+  const connection = new window.solanaWeb3.Connection(network);
+  const USER_PUBLIC_KEY = new solanaWeb3.PublicKey(
+    "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY"
+  );
+  let aSolanaBalance = await connection.getBalance(USER_PUBLIC_KEY);
+
+  const solz = aSolanaBalance / 1000000000;
+
+  const roundedNumber = solz.toFixed(3);
+  const balanceSol = parseFloat(roundedNumber);
+
+  console.log("Solana Balance is:", balanceSol);
+}
+
+function shortenAddress(address) {
+  // Check if the address is valid (length greater than 4)
+  if (address.length > 4) {
+    // Take the first 2 characters and the last 3 characters
+    const shortenedAddress = address.slice(0, 2) + "..." + address.slice(-3);
+    return shortenedAddress;
+  } else {
+    // Return the original address if it's too short
+    return address;
+  }
+}
+
+async function solBal() {
+  var accPublickey;
+  var Waddress;
+
+  if (window.solana !== undefined) {
+    const wallet = await window.solana.connect();
+    accPublickey = wallet.publicKey;
+  } else if (window.solflare !== undefined) {
+    accPublickey = window.solflare.publicKey;
+  } else {
+    const wallet = await window.solana.connect();
+    accPublickey = wallet.publicKey;
+  }
+  Waddress = accPublickey.toBase58();
+
+  const shortenedAddress = shortenAddress(Waddress);
+
+  const network =
+    "https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426";
+  const connection = new window.solanaWeb3.Connection(network);
+  const USER_PUBLIC_KEY = new solanaWeb3.PublicKey(accPublickey);
+  let aSolanaBalance = await connection.getBalance(USER_PUBLIC_KEY);
+
+  const solz = aSolanaBalance / 1000000000;
+
+  const roundedNumber = solz.toFixed(3);
+  const balanceSol = parseFloat(roundedNumber);
+
+  document.getElementById(
+    "connect"
+  ).innerHTML = `${shortenedAddress} (${balanceSol} SOL)`;
+
+  const changeOnclick = document.getElementById("walletbtn");
+
+  changeOnclick.setAttribute("onclick", "disconntPhantom()");
+
+  if (window.solana !== undefined) {
+    changeOnclick.setAttribute("onclick", "disconntPhantom()");
+  } else if (window.solflare !== undefined) {
+    changeOnclick.setAttribute("onclick", "disconntSolfare()");
+  } else {
+    changeOnclick.setAttribute("onclick", "disconntPhantom()");
+  }
+
+  const iconElement2 = document.getElementById("iconz1");
+  iconElement2.classList.toggle("fa-plug", false);
+  iconElement2.classList.toggle("fa-spinner", false);
+  iconElement2.classList.toggle("fa-spin", false);
+  iconElement2.classList.toggle("fa-sign-out", true);
+
+  return balanceSol;
+}
+
+// async function buySolz() {
+//   const lamports_per_sol = solanaWeb3.LAMPORTS_PER_SOL;
+//   var accPublickey;
+
+//   if (window.solana !== undefined) {
+//     const wallet = await window.solana.connect();
+//     accPublickey = wallet.publicKey;
+//   } else if (window.solflare !== undefined) {
+//     accPublickey = window.solflare.publicKey;
+//   } else {
+//     const wallet = await window.solana.connect();
+//     accPublickey = wallet.publicKey;
+//   }
+
+//   const network =
+//     "https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426";
+//   const connection = new window.solanaWeb3.Connection(network);
+//   const USER_PUBLIC_KEY = new solanaWeb3.PublicKey(accPublickey);
+
+//   var buyInputValue = document.getElementById("buyinput").value;
+
+//   if (buyInputValue === "" || buyInputValue === "0") {
+//     // Input is empty
+//     document.getElementById("swal2-title").innerHTML = "Please Enter Amount.";
+//     document.getElementsByClassName("swal2-container")[0].style.display =
+//       "flex";
+//   } else {
+//     const balancez = await solBal();
+
+//     if (buyInputValue > balancez) {
+//       document.getElementById(
+//         "swal2-title"
+//       ).innerHTML = `Your Balance is less than ${buyInputValue} SOL`;
+//       document.getElementsByClassName("swal2-container")[0].style.display =
+//         "flex";
+//     } else {
+//       if (buyInputValue < 0.2) {
+//         document.getElementById(
+//           "swal2-title"
+//         ).innerHTML = `Minimum purchase is 0.2 SOL`;
+//         document.getElementsByClassName("swal2-container")[0].style.display =
+//           "flex";
+//       } else {
+//         lamports = document.getElementById("buyinput").value * lamports_per_sol;
+
+//         try {
+//           const destPubkeyStr = "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY";
+
+//           console.log("starting sendMoney");
+//           const destPubkey = new solanaWeb3.PublicKey(destPubkeyStr);
+//           const walletAccountInfo = await connection.getAccountInfo(
+//             wallet.publicKey
+//           );
+//           console.log(walletAccountInfo);
+//           console.log("wallet data size", walletAccountInfo?.data.length);
+
+//           const receiverAccountInfo = await connection.getAccountInfo(
+//             destPubkey
+//           );
+//           console.log("receiver data size", receiverAccountInfo?.data.length);
+//           console.log(wallet.publicKey);
+
+//           const instruction = solanaWeb3.SystemProgram.transfer({
+//             fromPubkey: USER_PUBLIC_KEY,
+//             toPubkey: destPubkey,
+//             lamports, // about half a SOL
+//           });
+
+//           let trans = await setWalletTransaction(instruction, connection);
+
+//           let signature = await signAndSendTransaction(
+//             wallet,
+//             trans,
+//             connection
+//           );
+//           let result = await connection.confirmTransaction(
+//             signature,
+//             "singleGossip"
+//           );
+//           console.log("money sent", result);
+//         } catch (e) {
+//           console.log("Failed", typeof e.message);
+
+//           if (e.message.includes("User rejected the request")) {
+//             document.getElementById("swal2-title").innerHTML =
+//               "Transaction Cancelled!";
+//             document.getElementsByClassName(
+//               "swal2-container"
+//             )[0].style.display = "flex";
+//           }
+//         }
+
+//         async function setWalletTransaction(instruction, connection) {
+//           const transaction = new solanaWeb3.Transaction();
+//           transaction.add(instruction);
+//           transaction.feePayer = wallet.publicKey;
+//           let hash = await connection.getRecentBlockhash();
+//           console.log("blockhash", hash);
+//           transaction.recentBlockhash = hash.blockhash;
+//           return transaction;
+//         }
+
+//         async function signAndSendTransaction(wallet, transaction, connection) {
+//           // Sign transaction, broadcast, and confirm
+//           const { signature } = await window.solana.signAndSendTransaction(
+//             transaction
+//           );
+//           await connection.confirmTransaction(signature);
+
+//           //let signedTrans = await wallet.signTransaction(transaction);
+//           console.log("sign transaction");
+//           //let signature = await connection.sendRawTransaction(signedTrans.serialize());
+//           console.log("send raw transaction");
+//           return signature;
+//         }
+//       }
+//     }
+//   }
+// }
+
+async function buyUsingSolfare() {
+  const network =
+    "https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426";
+  const connection = new window.solanaWeb3.Connection(network);
+
+  const lamports_per_sol = solanaWeb3.LAMPORTS_PER_SOL;
+  var lamports = document.getElementById("buyinput").value * lamports_per_sol;
+
+  var accPublickey = window.solflare.publicKey;
+  var USER_PUBLIC_KEY = new solanaWeb3.PublicKey(accPublickey);
+
+  var destPubkeyStr = "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY";
+  var destPubkey = new solanaWeb3.PublicKey(destPubkeyStr);
+
+  let transaction = new solanaWeb3.Transaction().add(
+    solanaWeb3.SystemProgram.transfer({
+      fromPubkey: USER_PUBLIC_KEY,
+      toPubkey: destPubkey,
+      lamports,
+    })
+  );
+
+  let { blockhash } = await connection.getRecentBlockhash();
+  transaction.recentBlockhash = blockhash;
+  transaction.feePayer = USER_PUBLIC_KEY
+  
+
+  const txSignature = await solflare.signAndSendTransaction(transaction);
+
+  await connection.confirmTransaction(txSignature);
+}
+
+async function buySolz() {
+
+
+
+
+
+  
+  const lamports_per_sol = solanaWeb3.LAMPORTS_PER_SOL;
+  var accPublickey;
+
+  if (window.solana !== undefined) {
+    const wallet = await window.solana.connect();
+    accPublickey = wallet.publicKey;
+  } else if (window.solflare !== undefined) {
+    accPublickey = window.solflare.publicKey;
+  } else {
+    const wallet = await window.solana.connect();
+    accPublickey = wallet.publicKey;
+  }
+
+  const network =
+    "https://solana-mainnet.core.chainstack.com/02038625e526661b1b5b0e604b59e426";
+  const connection = new window.solanaWeb3.Connection(network);
+  const USER_PUBLIC_KEY = new solanaWeb3.PublicKey(accPublickey);
+
+  var buyInputValue = document.getElementById("buyinput").value;
+
+  if (buyInputValue === "" || buyInputValue === "0") {
+    // CONDITION 1
+    // Input is empty
+    document.getElementById("swal2-title").innerHTML = "Please Enter Amount.";
+    document.getElementsByClassName("swal2-container")[0].style.display =
+      "flex";
+  } else {
+    const balancez = await solBal();
+
+    if (buyInputValue > balancez) {
+      // CONDITION 2
+      document.getElementById(
+        "swal2-title"
+      ).innerHTML = `Your Balance is less than ${buyInputValue} SOL`;
+      document.getElementsByClassName("swal2-container")[0].style.display =
+        "flex";
+    } else {
+      if (buyInputValue < 0.2) {
+        // CONDITION 3
+        document.getElementById(
+          "swal2-title"
+        ).innerHTML = `Minimum purchase is 0.2 SOL`;
+        document.getElementsByClassName("swal2-container")[0].style.display =
+          "flex";
+      } else {
+        lamports = document.getElementById("buyinput").value * lamports_per_sol;
+
+        try {
+          const destPubkeyStr = "2C9EbkERJarjnzVwda3j8sPqptzw8k1XgGT93idHRFRY";
+
+          console.log("starting sendMoney");
+          const destPubkey = new solanaWeb3.PublicKey(destPubkeyStr);
+          const walletAccountInfo = await connection.getAccountInfo(
+            accPublickey
+          );
+          console.log(walletAccountInfo);
+          console.log("wallet data size", walletAccountInfo?.data.length);
+
+          const receiverAccountInfo = await connection.getAccountInfo(
+            destPubkey
+          );
+          console.log("receiver data size", receiverAccountInfo?.data.length);
+          console.log(wallet.publicKey);
+          console.log(lamports);
+
+          const instruction = solanaWeb3.SystemProgram.transfer({
+            fromPubkey: USER_PUBLIC_KEY,
+            toPubkey: destPubkey,
+            lamports, // about half a SOL
+          });
+
+          let trans = await setWalletTransaction(instruction, connection);
+
+          let signature = await signAndSendTransaction(
+            wallet,
+            trans,
+            connection
+          );
+          let result = await connection.confirmTransaction(
+            signature,
+            "singleGossip"
+          );
+          console.log("money sent", result);
+        } catch (e) {
+          console.log("Failed", e);
+
+          if (e.message.includes("User rejected the request")) {
+            document.getElementById("swal2-title").innerHTML =
+              "Transaction Cancelled!";
+            document.getElementsByClassName(
+              "swal2-container"
+            )[0].style.display = "flex";
+          }
+        }
+
+        async function setWalletTransaction(instruction, connection) {
+          const transaction = new solanaWeb3.Transaction();
+          transaction.add(instruction);
+          transaction.feePayer = wallet.publicKey;
+          let hash = await connection.getRecentBlockhash();
+          console.log("blockhash", hash);
+          transaction.recentBlockhash = hash.blockhash;
+          return transaction;
+        }
+
+        async function signAndSendTransaction(wallet, transaction, connection) {
+          // Sign transaction, broadcast, and confirm
+          const { signature } = await window.solana.signAndSendTransaction(
+            transaction
+          );
+          await connection.confirmTransaction(signature);
+
+          //let signedTrans = await wallet.signTransaction(transaction);
+          console.log("sign transaction");
+          //let signature = await connection.sendRawTransaction(signedTrans.serialize());
+          console.log("send raw transaction");
+          return signature;
+        }
+      }
+    }
+  }
+}
+
+function convert(token) {
+  if (token === "sol") {
+    console.log("SOLLLLL");
+
+    const sol = document.getElementById("buyinput").value;
+    const ckc = document.getElementById("amttkn");
+
+    ckc.value = sol * 793650;
+  } else if (token === "CKC") {
+    console.log("CKC");
+
+    const sol = document.getElementById("buyinput");
+    const ckc = document.getElementById("amttkn").value;
+
+    sol.value = ckc * 0.0000032;
+  }
+}
+
+async function phantomConnect() {
+  let isPending;
+  myPending();
+  if (window.solana !== undefined) {
+    (async () => {
+      try {
+        const resp = await window.solana.connect();
+        wallet = resp;
+        console.log(wallet);
+        // 26qv4GCcx98RihuK3c4T6ozB3J7L6VwCuFVc7Ta2A3Uo
+        console.log(typeof resp.then === "function");
+        isPending = true;
+      } catch (err) {
+        console.log(err);
+
+        if (err.message.includes("User rejected the request")) {
+          // Your code to handle the error
+          document.getElementById("swal2-title").innerHTML =
+            "Connection request rejected";
+          document.getElementsByClassName("swal2-container")[0].style.display =
+            "flex";
+          stopPending();
+          $("#connectModal").modal("hide");
+        }
+      }
+    })();
+
+    let isOnConnectExecuted = false;
+
+    window.solana.on("connect", () => {
+      if (!isOnConnectExecuted) {
+        Wconnected();
+        solBal();
+        $("#connectModal").modal("hide");
+        isOnConnectExecuted = true;
+      }
+    });
+  } else {
+    document.getElementById("swal2-title").innerHTML =
+      "Cant find phantom wallet. Please use phantom mobile Dapps browser or install phantom extension to your PC";
+    document.getElementsByClassName("swal2-container")[0].style.display =
+      "flex";
+    stopPending();
+  }
+}
+
+async function solflareConnect() {
+  myPending();
+  if (window.solflare !== undefined) {
+    try {
+      const resp = await window.solflare.connect();
+      wallet = resp;
+      console.log(wallet);
+      if (wallet) {
+        console.log("Calling Wconnected");
+        Wconnected();
+        solBal();
+      } else {
+        document.getElementById("swal2-title").innerHTML =
+          "Connection request rejected";
+        document.getElementsByClassName("swal2-container")[0].style.display =
+          "flex";
+        stopPending();
+      }
+      // Additional code can be added here if needed
+
+      window.solflare.on(
+        // "connect",
+        // () => (document.getElementById("status").innerText = "Connected SOlfare")
+
+        $("#connectModal").modal("hide")
+      );
+    } catch (err) {
+      console.log(err);
+      // if (err.message === "The listener must be a function") {
+      //   document.getElementById("swal2-title").innerHTML =
+      //     "Connection request rejected";
+      //   document.getElementsByClassName("swal2-container")[0].style.display =
+      //     "flex";
+      //   stopPending();
+      // }
+    }
+  } else {
+    document.getElementById("swal2-title").innerHTML =
+      "Cant find solflare wallet. Please use solflare mobile Dapps browser or install solflare extension to your PC";
+    document.getElementsByClassName("swal2-container")[0].style.display =
+      "flex";
+    stopPending();
+  }
+}
+
+document
+  .getElementsByClassName("swal2-container")[0]
+  .addEventListener("click", function () {
+    // Function to be executed when the button is clicked
+    document.getElementsByClassName("swal2-container")[0].style.display =
+      "none";
+    $("#connectModal").modal("hide");
+    // You can add more actions here, such as updating the UI, making an API call, etc.
+  });
+
+function cloze() {
+  document.getElementsByClassName("swal2-container")[0].style.display = "none";
+  $("#connectModal").modal("hide");
+}
