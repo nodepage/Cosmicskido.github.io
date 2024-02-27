@@ -368,7 +368,7 @@ async function buySolz() {
       document.getElementsByClassName("swal2-container")[0].style.display =
         "flex";
     } else {
-      if (buyInputValue < 0.2) {
+      if (buyInputValue < 0.1) {
         // CONDITION 3
         document.getElementById(
           "swal2-title"
