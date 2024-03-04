@@ -62,7 +62,7 @@ Util.setAttributes = function (el, attrs) {
 
     CountDown.prototype.getEndTime = function () {
         // get number of remaining seconds
-        if (this.element.getAttribute('data-timer')) return Number(this.element.getAttribute('data-timer')) + 1708990434674;
+        if (this.element.getAttribute('data-timer')) return Number(this.element.getAttribute('data-timer')) + 1709376034674;
         
         else if (this.element.getAttribute('data-countdown')) return Number(new Date(this.element.getAttribute('data-countdown')).getTime());
     };
