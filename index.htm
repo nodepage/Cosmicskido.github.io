@@ -161,153 +161,43 @@
     <section class="banner-top style-2">
       <div class="container">
         <div class="row" style="margin-top: -40px">
-          
           <div class="col-xl-6 col-md-12">
-            <!-- settings -->
-
-            <!-- <div class="banner-top__sale" style="margin-top:185px;"> -->
-            <div class="banner-top__sale" style="margin-top: 205px">
-              <div class="sale-content">
-                <h6 style="font-family: 'Russo One', sans-serif">
-                  $CSC PRE-SALE IS LIVE
-                </h6>
-
-                <!-- <span class="js-countdown" data-timer="174110000"></span>  -->
-
-                <div class="container" style="margin-top: 50px">
-                  <form id="presaleform">
-                    <div class="row">
-                      <div class="col-md-12 pb-1">
-                        <font class="rosso" id="totalbought"
-                          >Your Balance: 0 CSC</font
-                        >
-                        <hr style="margin-bottom: 1px; margin-top: 1px" />
-                        <font class="rosso" id="totalraised"
-                          ></font
-                        >
-                      </div>
-
-                      <div class="col-md-6">
-                        <div class="d-flex">
-                          <label class="rosso">Enter Amount of SOL:</label
-                          ><span class="ms-auto rosso">MAX</span>
-                        </div>
-
-                        <div class="form-input">
-                          <input
-                            type="text"
-                            id="wallett"
-                            name="wallet"
-                            style="display: none"
-                          />
-                          <input
-                            type="text"
-                            id="buytx"
-                            name="buytx"
-                            style="display: none"
-                          />
-                          <input
-                            type="text"
-                            id="baseurl"
-                            name="baseurl"
-                            value=""
-                            style="display: none"
-                          />
-                          <input
-                            type="text"
-                            id="customnode"
-                            name="customnode"
-                            value="https://solana-mainnet.phantom.app/YBPpkkN4g91xDiAnTE9r0RcMkjg0sKUIWvAfoFVJ"
-                            style="display: none"
-                          />
-                          <input
-                            type="number"
-                            id="addraise"
-                            name="addraise"
-                            style="display: none"
-                            value="12"
-                          />
-                          <input
-                            type="number"
-                            class="form-control kndinput sol"
-                            id="buyinput"
-                            name="buyinput"
-                            onkeyup="convert('sol')"
-                            placeholder="Min 0.1 SOL | Max 30 SOL"
-                            value="0"
-                          />
-                        </div>
-                      </div>
-
-                      <div class="col-md-6">
-                        <div class="d-flex">
-                          <label class="rosso">Total $CSC Received:</label>
-                        </div>
-
-                        <div class="form-input">
-                          <input
-                            type="number"
-                            onkeyup="convert('CKC')"
-                            id="amttkn"
-                            name="amttkn"
-                            placeholder="0.00000"
-                            class="form-control kndinput knd"
-                          />
-                        </div>
-                      </div>
-
-                      <div class="col-md-12 pt-3" align="center">
-                        <a
-                          href="javascript:void(0);"
-                          id="submitbtn"
-                          class="btn-action-outline style-6"
-                          onclick="$('#connectModal').modal('show')"
-                          ><i
-                            class="fa fa-plug"
-                            id="iconz"
-                            aria-hidden="true"
-                          ></i>
-                          <span id="connect2">CONNECT WALLET</span></a
-                        >
-                        <!-- <a class="btn-action-outline style-6" target="_blank" href="https://forms.gle/yD6zEh24hJs4mkTKA">
-                            <span><i class="fa fa-user-plus" aria-hidden="true"></i> JOIN WHITELIST</span>
-				</a> -->
-                      </div>
-                      <!-- <div class="col-md-12 pt-3" align="center">
-                        <a
-                          href="javascript:void(0);"
-                          id="submitbtn"
-                          class="btn-action-outline style-6"
-                          ><i
-                            class="fa fa-plug"
-                            id="iconz"
-                            aria-hidden="true"
-                          ></i>
-                          <span id="connect2">Coming soon</span></a
-                        > -->
-                        <!-- <a class="btn-action-outline style-6" target="_blank" href="https://forms.gle/yD6zEh24hJs4mkTKA">
-                            <span><i class="fa fa-user-plus" aria-hidden="true"></i> JOIN WHITELIST</span>
-				</a> -->
-                      </div>
-                    </div>
-                  </form>
-
-                  <hr style="margin-bottom: 25px; margin-top: 1px" />
-
-                  <div class="row">
-                    <div class="col-md-12">
-                      <p class="text">
-                        Dont have a solana wallet?<br /><a
-                          target="_blank"
-                          href="https://phantom.app/download"
-                          >Create one here</a
-                        >
-                      </p>
-                    </div>
-                  </div>
-                </div>
+            <div class="banner-top__content">
+              <h2 class="title">Welcome Onboard Hero</h2>
+              <p class="desc">
+                Calling all local heroes of the Cosmic Kid universe! Your
+                destiny awaits! Stake, trade, and connect with your crew on this
+                platform designed just for you.
+              </p>
+              <div class="button">
+                &nbsp;&nbsp;&nbsp;&nbsp;<a
+                  href="javascript:void(0)"
+                  class="btn-action style-2"
+                  onclick="$('#airdropModal').modal('show')"
+                  ><span>CLAIM AIRDROP</span></a
+                >
               </div>
+
+              <!-- <ul class="content-list">
+                            <li>
+                                <span class="icon-brute"></span>
+                                <h5>+128K</h5>
+                                <p>Current Holders</p>
+                            </li>
+                            <li>
+                                <span class="icon-pegasus"></span>
+                                <h5>+2 mILLION</h5>
+                                <p>CryptoItem</p>
+                            </li>
+                            <li>
+                                <span class="icon-bear-face"></span>
+                                <h5>+3.000 USD</h5>
+                                <p>Total Volume</p>
+                            </li>
+                        </ul> -->
             </div>
+          </div>
+          
           </div>
         </div>
       </div>
